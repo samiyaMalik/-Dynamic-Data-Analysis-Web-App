@@ -109,8 +109,9 @@ Contributions are welcome! Please feel free to submit a Pull Request or open an 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=samiyamalik&theme=dark&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=samiyamalik&theme=dark&hide_border=true&layout=compact)
 
+
 ### ✍️ Data Science Quote
-![Custom Quote](https://img.shields.io/badge/-"Data%20is%20the%20new%20oil,%20but%20it’s%20valuable%20only%20when%20refined."%20—%20Clive%20Humby-blueviolet)
+![Custom Quote](https://img.shields.io/badge/-"In%20God%20we%20trust.%20All%20others%20must%20bring%20data."%20—%20W.%20Edwards%20Deming-blueviolet)
 
 
 **
