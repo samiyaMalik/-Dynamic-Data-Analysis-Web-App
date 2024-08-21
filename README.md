@@ -1,9 +1,4 @@
 # Dynamic-Data-Analysis-Web-App
-Here's the entire description formatted in Markdown:
-
-
-# 🚀 Dynamic Data Analysis Web App
-
 This repository contains the code for a Python-based web application that facilitates interactive data analysis directly from your browser. Built using Flask, Pandas, and Seaborn, this app allows users to upload datasets, perform various types of analyses, and download visualizations.
 
 ## 📋 Features
