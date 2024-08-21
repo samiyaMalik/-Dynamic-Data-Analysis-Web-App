@@ -105,11 +105,13 @@ Contributions are welcome! Please feel free to submit a Pull Request or open an 
 ![Software Engineering](https://img.shields.io/badge/Software%20Engineering-%23ED8B00.svg?style=flat&logo=Software%20Engineering&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ameerhamza03&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=ameerhamza03&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=samiyamalik&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=samiyamalik&theme=dark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=samiyamalik&theme=dark&hide_border=true&layout=compact)
 
 ### ✍️ Data Science Quote
 ![Custom Quote](https://img.shields.io/badge/-"Data%20is%20the%20new%20oil,%20but%20it’s%20valuable%20only%20when%20refined."%20—%20Clive%20Humby-blueviolet)
+
 
 **
 
