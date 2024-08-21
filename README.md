@@ -58,6 +58,19 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Contributions are welcome! Please feel free to submit a Pull Request or open an Issue.
 
-```
+🌟 Explore My Profiles:
+LinkedIn: Discover my professional background, achievements, and connect with me for opportunities in [GIFT UNIVERSITY].
+🔗 [Visit my LinkedIn Profile](https://www.linkedin.com/in/samiya-malik)
 
-You can now copy and paste this into your `README.md` file on GitHub.
+GitHub: Check out the projects I've been working on, contribute to open-source code, and explore my programming journey.
+🔗 [Visit my GitHub Repository](https://github.com/samiyaMalik)
+
+Facebook: Stay updated with my latest posts, join the conversation, and engage with my community.
+🔗 [Visit my Facebook Profile]([Your Facebook URL](https://www.facebook.com/profile.php?id=61554558765966))
+
+Instagram: Follow my visual journey, from daily moments to behind-the-scenes of my projects and hobbies.
+🔗 [Visit my Instagram Profile](Your Instagram URL)
+
+Whether it's professional networking, collaborative codin
+
+```
