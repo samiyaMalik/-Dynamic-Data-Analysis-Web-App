@@ -58,15 +58,23 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Contributions are welcome! Please feel free to submit a Pull Request or open an Issue.
 
-🌟 **Explore My Profiles:**
+🌟 <strong>Explore My Profiles:</strong><br>
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samiya-malik) LinkedIn: Discover my professional background, achievements, and connect with me for opportunities in [GIFT UNIVERSITY].
+<a href="https://www.linkedin.com/in/samiya-malik" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a> LinkedIn: Discover my professional background, achievements, and connect with me for opportunities in [GIFT UNIVERSITY].<br>
 
-- [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samiyaMalik) GitHub: Check out the projects I've been working on, contribute to open-source code, and explore my programming journey.
+<a href="https://github.com/samiyaMalik" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a> GitHub: Check out the projects I've been working on, contribute to open-source code, and explore my programming journey.<br>
 
-- [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61554558765966) Facebook: Stay updated with my latest posts, join the conversation, and engage with my community.
+<a href="https://www.facebook.com/profile.php?id=61554558765966" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+</a> Facebook: Stay updated with my latest posts, join the conversation, and engage with my community.<br>
 
-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/samsemi42/) Instagram: Follow my visual journey, from daily moments to behind-the-scenes of my projects and hobbies.
+<a href="https://www.instagram.com/samsemi42/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+</a> Instagram: Follow my visual journey, from daily moments to behind-the-scenes of my projects and hobbies.
 
 
 ```
