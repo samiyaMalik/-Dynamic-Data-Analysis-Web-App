@@ -58,7 +58,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Contributions are welcome! Please feel free to submit a Pull Request or open an Issue.
 
-🌟 Explore My Profiles:
+🌟 **Explore My Profiles:**
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samiya-malik) LinkedIn: Discover my professional background, achievements, and connect with me for opportunities in [GIFT UNIVERSITY].
 
