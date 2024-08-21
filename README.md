@@ -62,7 +62,7 @@ Contributions are welcome! Please feel free to submit a Pull Request or open an 
 
 
 
-**#  💻 Tech Stack:
+💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
@@ -110,6 +110,7 @@ Contributions are welcome! Please feel free to submit a Pull Request or open an 
 
 ### ✍️ Data Science Quote
 ![Custom Quote](https://img.shields.io/badge/-"Data%20is%20the%20new%20oil,%20but%20it’s%20valuable%20only%20when%20refined."%20—%20Clive%20Humby-blueviolet)
+
 **
 
 ```
