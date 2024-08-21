@@ -54,7 +54,7 @@ pip install -r requirements.txt
 
 Contributions are welcome! Please feel free to submit a Pull Request or open an Issue.
 
-🌟🌐 Socials:
+🌟🌐 Socials:<br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samiya-malik-4a0053243/) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/samsemi42/)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61554558765966)<br>
@@ -62,7 +62,7 @@ Contributions are welcome! Please feel free to submit a Pull Request or open an 
 
 
 
-💻 Tech Stack:
+💻 Tech Stack:<br>
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
@@ -114,6 +114,6 @@ Contributions are welcome! Please feel free to submit a Pull Request or open an 
 ![Custom Quote](https://img.shields.io/badge/-"In%20God%20we%20trust.%20All%20others%20must%20bring%20data."%20—%20W.%20Edwards%20Deming-blueviolet)
 
 
-**
+
 
 ```
